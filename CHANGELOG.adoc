@@ -2,13 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
-The format is based on https://keepachangelog.com/en/1.0.0/[Keep a
-Changelog], and this project adheres to
-https://semver.org/spec/v2.0.0.html[Semantic Versioning].
+The format is based on https://keepachangelog.com/en/1.0.0/[Keep a Changelog],
+and this project adheres to https://semver.org/spec/v2.0.0.html[Semantic Versioning].
 
-=== https://github.com/olivierlacan/keep-a-changelog/compare/v1.0.0...HEAD[Unreleased]
+=== https://github.com/olivierlacan/keep-a-changelog/compare/v1.0.0\...HEAD[Unreleased]
 
-=== https://github.com/olivierlacan/keep-a-changelog/compare/v0.3.0...v1.0.0[1.0.0] - 2017-06-20
+=== https://github.com/olivierlacan/keep-a-changelog/compare/v0.3.0\...v1.0.0[1.0.0] - 2017-06-20
 
 ==== Added
 
@@ -68,7 +67,7 @@ diffs`"
 
 * Section about "`changelog`" vs "`CHANGELOG`".
 
-=== https://github.com/olivierlacan/keep-a-changelog/compare/v0.2.0...v0.3.0[0.3.0] - 2015-12-03
+=== https://github.com/olivierlacan/keep-a-changelog/compare/v0.2.0\...v0.3.0[0.3.0] - 2015-12-03
 
 ==== Added
 
@@ -76,14 +75,14 @@ diffs`"
 * pt-BR translation from https://github.com/tallesl[@tallesl].
 * es-ES translation from https://github.com/ZeliosAriex[@ZeliosAriex].
 
-=== https://github.com/olivierlacan/keep-a-changelog/compare/v0.1.0...v0.2.0[0.2.0] - 2015-10-06
+=== https://github.com/olivierlacan/keep-a-changelog/compare/v0.1.0\...v0.2.0[0.2.0] - 2015-10-06
 
 ==== Changed
 
 * Remove exclusionary mentions of "`open source`" since this project can
 benefit both "`open`" and "`closed`" source projects equally.
 
-=== https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.8...v0.1.0[0.1.0] - 2015-10-06
+=== https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.8\...v0.1.0[0.1.0] - 2015-10-06
 
 ==== Added
 
@@ -94,7 +93,7 @@ benefit both "`open`" and "`closed`" source projects equally.
 * Improve argument against commit logs.
 * Start following https://semver.org[SemVer] properly.
 
-=== https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.7...v0.0.8[0.0.8] - 2015-02-17
+=== https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.7\...v0.0.8[0.0.8] - 2015-02-17
 
 ==== Changed
 
@@ -107,7 +106,7 @@ writes dates in a strange way.
 * Fix typos in recent README changes.
 * Update outdated unreleased diff link.
 
-=== https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.6...v0.0.7[0.0.7] - 2015-02-16
+=== https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.6\...v0.0.7[0.0.7] - 2015-02-16
 
 ==== Added
 
@@ -121,13 +120,13 @@ writes dates in a strange way.
 
 * Fix Markdown links to tag comparison URL with footnote-style links.
 
-=== https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.5...v0.0.6[0.0.6] - 2014-12-12
+=== https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.5\...v0.0.6[0.0.6] - 2014-12-12
 
 ==== Added
 
 * README section on "`yanked`" releases.
 
-=== https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.4...v0.0.5[0.0.5] - 2014-08-09
+=== https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.4\...v0.0.5[0.0.5] - 2014-08-09
 
 ==== Added
 
@@ -135,7 +134,7 @@ writes dates in a strange way.
 * Unreleased section to gather unreleased changes and encourage note
 keeping prior to releases.
 
-=== https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.3...v0.0.4[0.0.4] - 2014-08-09
+=== https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.3\...v0.0.4[0.0.4] - 2014-08-09
 
 ==== Added
 
@@ -155,13 +154,13 @@ create too much noise in the file. People will have to assume that the
 missing sections were intentionally left out because they contained no
 notable changes.
 
-=== https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.2...v0.0.3[0.0.3] - 2014-08-09
+=== https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.2\...v0.0.3[0.0.3] - 2014-08-09
 
 ==== Added
 
 * "`Why should I care?`" section mentioning The Changelog podcast.
 
-=== https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.1...v0.0.2[0.0.2] - 2014-07-10
+=== https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.1\...v0.0.2[0.0.2] - 2014-07-10
 
 ==== Added
 
