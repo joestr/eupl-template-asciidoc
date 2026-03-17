@@ -1,3 +1,5 @@
 == eupl-template
 
 A repository template with EUPL-1.2 license
+
+https://github.com/joestr/eupl-template[To the Markdown version]
